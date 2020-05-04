@@ -13,7 +13,8 @@ make
 abc
 ```
 
-Grammar:
+Grammar
+---------
 
 ```
 S -> aBc
